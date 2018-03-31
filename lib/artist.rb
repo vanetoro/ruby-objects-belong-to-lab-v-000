@@ -4,3 +4,5 @@ class Artist
   def initialize(assert_not_same)
     @name = name
   end
+  
+end  
