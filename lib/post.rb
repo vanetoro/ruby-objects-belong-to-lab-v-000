@@ -7,4 +7,3 @@ class Post
   
 end
 
-post
