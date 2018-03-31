@@ -1,7 +1,7 @@
 class Artist
   attr_accessor :name
   
-  def initialize(assert_not_same)
+  def initialize(name)
     @name = name
   end
   
